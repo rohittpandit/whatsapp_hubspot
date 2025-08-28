@@ -1,6 +1,15 @@
 {
   "token_type": "bearer",
-  "refresh_token": "na1-7428-aa4b-4479-b3cd-25542d35ac84",
-  "access_token": "CJmfjuCLMxISQlNQMl8kQEwrAgUACAkWEgcGGI-N3BYg1t7EIii50MYIMhRt0YYbfz6LCHQ_McadylT2enM9EDobQlNQMl8kQEwrAg4ACBkGcU4gEAEBAQQyLgWCQhS6PU7IO2bLv-p9hVJ8O3TQW_IpwUoDbmExUgBaAGAAaNbexCJwAHgA",
+  "refresh_token": "na1-9280-8c09-4c33-a3cd-cd15f7bceb3a",
+  "access_token": "CJWhmZGPMxITQlNQMl8kQEwrAgYACAkCFBIHBhiPjdwWINbexCIoudDGCDIUmYyAsY8LjampCqjo--kDRiGerB46HkJTUDJfJEBMKwIRAAgTBgZxKyMgEAEBAQQyLgWCYUIU3DpyPI1Q2v0gOwxhMksDGWG05ZxKA25hMVIAWgBgAGjW3sQicAB4AA",
+  "hub_id": 47646351,
+  "scopes": [
+    "crm.objects.custom.write",
+    "files",
+    "crm.schemas.contacts.read",
+    "oauth",
+    "crm.objects.contacts.write",
+    "crm.objects.contacts.read"
+  ],
   "expires_in": 1800
 }
