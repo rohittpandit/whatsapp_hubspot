@@ -7,8 +7,8 @@ import fs from 'fs'
 import qrcode from 'qrcode-terminal'
 
 // ==================== CONFIG ====================
-const CLIENT_ID = 'b6827f04-e977-4160-b2c9-e39ede81454d'
-const CLIENT_SECRET = '36975951-efff-48d7-99c8-e0af3afea8c6'
+const CLIENT_ID = ' '
+const CLIENT_SECRET = ' '
 const REDIRECT_URI = 'http://localhost:3000/oauth-callback'
 const PORT = 3000
 const TOKEN_FILE = './hubspot_token.json'
